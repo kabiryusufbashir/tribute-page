@@ -7,6 +7,8 @@ body{
 main{
   background: #fff;
   padding: 2%;
+  width: 98%;
+  float: left;
 }
 
 .col-quarter{
@@ -15,24 +17,10 @@ main{
   margin: 2% 2%;
 }
 
-.one{
-  grid-column: 1/4;
-}
-
-.two{
-  grid-column: 2/3;
-}
-
-.three{
-  grid-column: 3/4;
-}
-
-.four{
-  grid-column: 1/4;
-}
-
-.five{
-  grid-column: 1/4;
+.col-full{
+  width: 96%;
+  float: left;
+  margin: 2% 2%;
 }
 
 img{
