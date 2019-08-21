@@ -9,7 +9,8 @@ body{
   grid-template-columns: repeat(3, 1rf);
   grid-template-areas:
     "header header header header"
-    "img-header img-header img-header img-header";
+    "img-header img-header img-header img-header"
+    "section-1 section-2 section-3 section-4 ";
   grid-gap: 10px;
 }
 
@@ -19,4 +20,20 @@ body{
 
 .img-header{
   grid-area: img-header;
+}
+
+.section-1{
+  grid-area: section-1;
+}
+
+.section-2{
+  grid-area: section-2;
+}
+
+.section-3{
+  grid-area: section-3;
+}
+
+.section-4{
+  grid-area: section-4;
 }
