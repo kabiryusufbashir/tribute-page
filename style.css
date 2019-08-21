@@ -3,28 +3,3 @@ body{
   text-align: center;
   background-color: #ddd;
 }
-
-
-.header{
-  grid-area: header;
-}
-
-.img-header{
-  grid-area: img-header;
-}
-
-.section-1{
-  grid-area: section-1;
-}
-
-.section-2{
-  grid-area: section-2;
-}
-
-.section-3{
-  grid-area: section-3;
-}
-
-.section-4{
-  grid-area: section-4;
-}
