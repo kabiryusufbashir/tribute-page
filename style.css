@@ -1,13 +1,11 @@
 body{
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   text-align: center;
-  background-color: #ddd;
 }
 
 main{
   background: #fff;
-  padding: 2%;
-  width: 98%;
+  width: 100%;
   float: left;
 }
 
@@ -25,4 +23,5 @@ main{
 
 img{
   max-width: 100%;
+  border-radius: 10px;
 }
