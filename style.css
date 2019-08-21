@@ -8,3 +8,8 @@ main{
   background: #fff;
   padding: 2%;
 }
+
+#tribute-info{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
