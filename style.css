@@ -3,3 +3,8 @@ body{
   text-align: center;
   background-color: #ddd;
 }
+
+main{
+  background: #fff;
+  padding: 2%;
+}
