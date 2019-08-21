@@ -7,9 +7,15 @@ body{
   width: 100%;
   background: green;
   float: left;
-  padding-top: 1%;
-  padding-bottom: 1%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
   color: #fff;
+  border-radius: 10px;
+
+}
+
+img{
+  max-width: 100%;
   border-radius: 10px;
 }
 
@@ -31,10 +37,4 @@ main{
     float: left;
     margin: 2% 2%;
   }
-}
-
-
-img{
-  max-width: 100%;
-  border-radius: 10px;
 }
