@@ -8,5 +8,6 @@ body{
   display: grid;
   grid-template-columns: repeat(3, 1rf);
   grid-template-areas:
-    
+    "header header header header";
+  grid-gap: 10px;
 }
