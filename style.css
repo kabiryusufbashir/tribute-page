@@ -17,3 +17,15 @@ main{
 .one{
   grid-column: 1/2;
 }
+
+.two{
+  grid-column: 2/3;
+}
+
+.three{
+  grid-column: 3/4;
+}
+
+.four{
+  grid-column: 4/5;
+}
