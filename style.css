@@ -3,6 +3,16 @@ body{
   text-align: center;
 }
 
+#title{
+  width: 100%;
+  background: green;
+  float: left;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: #fff;
+  border-radius: 10px;
+}
+
 main{
   background: #fff;
   width: 100%;
