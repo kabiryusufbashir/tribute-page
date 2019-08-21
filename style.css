@@ -4,15 +4,6 @@ body{
   background-color: #ddd;
 }
 
-#main{
-  display: grid;
-  grid-template-columns: repeat(3, 1rf);
-  grid-template-areas:
-    "header header header header"
-    "img-header img-header img-header img-header"
-    "section-1 section-2 section-3 section-4 ";
-  grid-gap: 10px;
-}
 
 .header{
   grid-area: header;
