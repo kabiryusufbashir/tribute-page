@@ -3,3 +3,10 @@ body{
   text-align: center;
   background-color: #ddd;
 }
+
+#main{
+  display: grid;
+  grid-template-columns: repeat(3, 1rf);
+  grid-template-areas:
+    
+}
