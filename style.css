@@ -19,17 +19,20 @@ main{
   float: left;
 }
 
-.col-quarter{
-  width: 21%;
-  float: left;
-  margin: 2% 2%;
+@media screen and (min-width: 760px){
+  .col-quarter{
+    width: 21%;
+    float: left;
+    margin: 2% 2%;
+  }
+
+  .col-full{
+    width: 96%;
+    float: left;
+    margin: 2% 2%;
+  }
 }
 
-.col-full{
-  width: 96%;
-  float: left;
-  margin: 2% 2%;
-}
 
 img{
   max-width: 100%;
