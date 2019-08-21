@@ -34,3 +34,7 @@ main{
 .five{
   grid-column: 1/4;
 }
+
+img{
+  max-width: 100%;
+}
