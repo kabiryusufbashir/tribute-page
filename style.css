@@ -9,8 +9,10 @@ main{
   padding: 2%;
 }
 
-#tribute-info{
-  
+.col-quarter{
+  width: 21%;
+  float: left;
+  margin: 2% 2%;
 }
 
 .one{
