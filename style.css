@@ -8,6 +8,15 @@ body{
   display: grid;
   grid-template-columns: repeat(3, 1rf);
   grid-template-areas:
-    "header header header header";
+    "header header header header"
+    "img-header img-header img-header img-header";
   grid-gap: 10px;
+}
+
+.header{
+  grid-area: header;
+}
+
+.img-header{
+  grid-area: img-header;
 }
