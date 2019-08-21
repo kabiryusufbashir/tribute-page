@@ -16,6 +16,9 @@ body{
 
 img{
   max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
